@@ -1,4 +1,4 @@
-# Quality Defect Analysis Dashboard and Storytelling
+# **Quality Defect Analysis Dashboard and Storytelling (2023 - 2024)**
 
 This project analyzes procurement and supplier data to identify defect trends and predict high-risk purchase orders.  
 Combining Python machine learning and Tableau dashboards, it helps procurement and quality teams make proactive, data-driven decisions.
@@ -36,6 +36,13 @@ Procurement teams often struggle with hidden defect risks in purchase orders. Ma
    - Feature Importance chart explaining defect root causes
    - Pie chart for Defective vs Non-Defective orders
    - Drill-down report by Item ID and year
+
+### Overview Dashboard: [View Dashboard Link](https://public.tableau.com/app/profile/phuoc.huynh7023/viz/Book1_17521801585140/Dashboard1)
+<img width="1295" height="597" alt="{05C0228D-3AC0-42D7-B649-6B9883F8D822}" src="https://github.com/user-attachments/assets/d7189b78-75ad-4fe5-912f-e1c42bd230a7" />
+<img width="1299" height="594" alt="{C1F579C7-A4C8-4388-A98E-0DB68F16EF88}" src="https://github.com/user-attachments/assets/a6ab0262-4066-4337-8260-d70c1c7d4122" />
+
+
+
 
 ---
 
