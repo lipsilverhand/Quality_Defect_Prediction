@@ -1,0 +1,8 @@
+Feature,Importance
+Compliance_Flag_encoded,0.020344999181943785
+Item_ID_encoded,0.07704999609200525
+Supplier_ID_encoded,0.08698773549345055
+Lead_Time_Days,0.16326474023348242
+Quantity_Ordered,0.20812395018816846
+Unit_Price,0.21839352463308917
+Supplier_Rating,0.22583505417786048
